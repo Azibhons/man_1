@@ -1,9 +1,4 @@
-SIMPLE SHELL                                                                                                 
-Description                                                                                                  
-                                                                                                             
-Project 0x16 - Simple Shell - A simple UNIX command interpreter that executes commands read from the standard
- input or from a file. Based on the Bourne Shell.                                                            
-List of Allowed Functions and System Calls                                                                   
+#list of MAN                                                     
                                                                                                              
 * <a href="https://linux.die.net/man/2/access"> access </a> (man 2 access)                                   
 * <a href="https://man7.org/linux/man-pages/man2/chdir.2.html"> chdir </a> (man 2 chdir)                     
@@ -54,15 +49,9 @@ List of Allowed Functions and System Calls
 * <a href="https://linux.die.net/man/2/wait4"> wait4 </a> (man 2 wait4)                                      
 * <a href="https://linux.die.net/man/2/write"> write </a> (man 2 write)
 * <a href="https://linux.die.net/man/"> LINUX MAN PAGES </a>                                                 
+                                                                                                                                                                            
                                                                                                              
-Compilation                                                                                                  
-                                                                                                             
-The shell will be compiled this way:                                                                         
-                                                                                                             
-gcc -Wall -Wextra -Werror -pedantic *.c -o hsh                                                               
-                                                                                                             
-AUTHORS                                                                                                      
-* Olabode Bodex                                                                                              
+AUTHOR                                                                                      
 * Nathan Azibabhonomeni                                                                                      
                                                                            
                                      
