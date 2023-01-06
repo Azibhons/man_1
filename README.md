@@ -48,6 +48,7 @@
 * <a href="https://linux.die.net/man/2/wait3"> wait3 </a> (man 2 wait3)                                      
 * <a href="https://linux.die.net/man/2/wait4"> wait4 </a> (man 2 wait4)                                      
 * <a href="https://linux.die.net/man/2/write"> write </a> (man 2 write)
+* <a href="https://linux.die.net/man/1/gcc"> gcc(1) </a>
 * <a href="https://linux.die.net/man/"> LINUX MAN PAGES </a>                                                 
                                                                                                                                                                             
                                                                                                              
